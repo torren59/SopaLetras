@@ -27,7 +27,7 @@ en el siguiente ejemplo
 | Seconds | 301 | 283 |
 
 | A + |
-      :--------:
+      :---:
 | Hola |
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
