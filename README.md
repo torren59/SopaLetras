@@ -14,13 +14,7 @@ El sistema mapea la sopa de letras como si esta se encontrara en un plano cartes
 valores en Y aumentan a medida que desendemos por la sopa de letras o aumenta en X cuando nos movemos de izquierda a derecha sobre la sopa de letras. Como se demuestra
 en el siguiente ejemplo
 
-|+ Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
 
-
-| - --------> + |
-| | | |:-------: | | | |
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | A | B | C | D | E | F |
