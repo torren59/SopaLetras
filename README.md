@@ -22,7 +22,7 @@ en el siguiente ejemplo
  +   4 S T U V W A
  + + 5 B C D E F G 
 
-| Attempt | #1  | #2  |
+|+ Attempt | #1  | #2  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
  
