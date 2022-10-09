@@ -25,6 +25,10 @@ en el siguiente ejemplo
 |+ Attempt | #1  | #2  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
+
+| - -----------> + |
+      :--------:
+| |Hola| |
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
  
