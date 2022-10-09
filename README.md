@@ -28,7 +28,8 @@ en el siguiente ejemplo
 
 | - -----> + |
 |  :-------: |
-| Hola |
+|-|0|1|2|3|4|5|6|
+| |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
  
