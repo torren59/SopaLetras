@@ -22,13 +22,10 @@ en el siguiente ejemplo
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | A | B | C | D | E | F |
 | 2 | G | H | I | J | K | L |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 3 | M | N | O | P | Q | R |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 4 | S | T | U | V | W | A |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 5 | B | C | D | E | F | G |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
  
