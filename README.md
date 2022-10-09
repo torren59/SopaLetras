@@ -27,9 +27,9 @@ en el siguiente ejemplo
 | Seconds | 301 | 283 |
 
 | - -----> + |
-|  :-:|:-:|:-:|:-:|:-:|:-:|:-: |
-|-|0|1|2|3|4|5|6|
-| |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|0|1|2|3|4|5|6|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
  
