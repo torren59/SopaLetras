@@ -15,7 +15,7 @@ valores en Y aumentan a medida que desendemos por la sopa de letras o aumenta en
 en el siguiente ejemplo
 
  +   - ---------> +
- + - 0 1 2 3 4 5 6
+ + '-' 0 1 2 3 4 5 6
  +   1 A B C D E F
  +   2 G H I J K L 
  +   3 M N O P Q R
