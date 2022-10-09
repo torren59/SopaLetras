@@ -26,7 +26,7 @@ en el siguiente ejemplo
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
 
-| - -----------> + |
+| A + |
       :--------:
 | Hola |
  
