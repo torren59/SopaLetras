@@ -21,6 +21,10 @@ en el siguiente ejemplo
  +   3 M N O P Q R
  +   4 S T U V W A
  + + 5 B C D E F G 
+
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
  
  Para el idóneo funcionamiento se recomienda ingresar las letras en mayúscula, sin importar si es para rellenar la sopa o para registrar la palabra a buscar.
  
